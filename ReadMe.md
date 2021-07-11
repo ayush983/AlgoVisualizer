@@ -6,9 +6,9 @@ Algorithms it contains:Dijkstra's Algorithm,A* Pathfinding algorithm
 
 Features:
 You can enter a source node and a destination node.</br>
-You can draw obstructions by dragging the mouse in the grid.
-The app finds the shortest distance from src to dest.
-Also displays the shortest path.
+You can draw obstructions by dragging the mouse in the grid.</br>
+The app finds the shortest distance from src to dest.</br>
+Also displays the shortest path.</br>
 
 Other features:  
 Control Algo speed  
