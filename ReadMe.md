@@ -4,9 +4,9 @@ Implemented using PyQt5 and occasional help from QtDesigner.
 
 Algorithms it contains:Dijkstra's Algorithm,A* Pathfinding algorithm
 
-Features:
-You can enter a source node and a destination node.</br>
-You can draw obstructions by dragging the mouse in the grid.</br>
+Features:  
+Enter a source node and a destination node.</br>
+Draw obstructions by dragging the mouse in the grid.</br>
 The app finds the shortest distance from src to dest.</br>
 Also displays the shortest path.</br>
 
