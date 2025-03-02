@@ -1,4 +1,4 @@
-An algorithm visualizer in python.
+An algorithm visualizer to visualize graph algorithms.
 
 Implemented using PyQt5 and occasional help from QtDesigner.
 
